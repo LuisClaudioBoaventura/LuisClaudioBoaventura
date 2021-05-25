@@ -34,8 +34,8 @@ confortavel fique a vontade para entrar em contato comigo tanto por aqui como po
 
 <div align="center">
   
-[![Luis Claudio Github stats](https://github-readme-stats.vercel.app/api?username=LuisClaudioBoaventura&show_icons=true&theme=react&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisClaudioBoaventura&hide=c%23,html,javascript,tex&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis Claudio Github stats](https://github-readme-stats.vercel.app/api?username=LuisClaudioBoaventura&show_icons=true&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisClaudioBoaventura&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

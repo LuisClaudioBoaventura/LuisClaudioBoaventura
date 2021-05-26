@@ -39,6 +39,8 @@ confortavel fique a vontade para entrar em contato comigo tanto por aqui como po
 
 </div>
 
+---
+
 <div align="center">
 
 ###  ✅ &nbsp;Redes

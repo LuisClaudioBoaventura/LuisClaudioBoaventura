@@ -1,7 +1,7 @@
 ## Olá, tudo bem?
 
 Meu nome é Luis Claudio,
-  Aqui você pode acompanhar um pouco do meu trabalho e desenvolvimento enquanto estudo programação. A maior parte dos meus projetos são em JavaScript,HTML e CSS. Caso se sinta 
+  Aqui você pode acompanhar um pouco do meu trabalho e desenvolvimento enquanto estudo programação. A maior parte dos meus projetos são em JavaScript, HTML e CSS. Caso se sinta 
 confortavel fique a vontade para entrar em contato comigo tanto por aqui como por outras redes aqui linkadas.
 
 ---

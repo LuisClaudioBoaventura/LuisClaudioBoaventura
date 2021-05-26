@@ -14,7 +14,7 @@ confortavel fique a vontade para entrar em contato comigo tanto por aqui como po
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logoColor=fff&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styled-components&logoColor=ffde34)\
